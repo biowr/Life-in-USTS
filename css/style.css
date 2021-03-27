@@ -10,7 +10,7 @@ a:hover,a:active,a:focus {
     text-decoration: none;
 }
 body {
-    background-image: url('../image/bg.jpg');
+    background-image: url('https://ruiprime-pic.cn-sh2.ufileos.com/pic/20210328000517.jpg');
     background-repeat:no-repeat;
     background-attachment:fixed;
     overflow-x: hidden;
