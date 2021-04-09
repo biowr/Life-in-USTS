@@ -617,7 +617,7 @@ input::-webkit-input-placeholder {
         border-bottom: 1px solid #e8e8e8;
     }
     header .nav a:hover {
-        border-color: #08ffc8;
+        border-color: #FFD800;
         color: #459df5;
     }
     .left-bar {
