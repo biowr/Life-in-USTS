@@ -1,0 +1,2 @@
+// var titleTime,OriginTitile=document.title;document.addEventListener("visibilitychange",function(){document.hidden?(document.title="Come Back! "+OriginTitile,clearTimeout(titleTime)):(document.title="Hi! "+OriginTitile,titleTime=setTimeout(function(){document.title=OriginTitile},2e3))}),
+console.log("\n\n %c  KRUNK DESIGN STUDIO  %c https://krunk.cn/design \n","color: #fadfa3; background: #030307; padding:5px 0;","background: #fadfa3; padding:5px 0;");
